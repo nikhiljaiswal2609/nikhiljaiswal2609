@@ -1,8 +1,12 @@
 ![logo](https://github.com/nikhiljaiswal2609/nikhiljaiswal2609/blob/main/nik.png)
 <h1 align="center">Hi 👋, I'm Nikhil Jaiswal</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-- 🌱 I’m currently learning **Javascript & React.js**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiljaiswal2609&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiljaiswal2609" /> </p>
+
+- 🔭 I’m currently working on [Amazon clone](https://nikhiljaiswal2609.github.io/Amazon-Clone/)
+
+- 🌱 I’m currently learning **JavaScript & React.js**
 
 - 📫 How to reach me **nikhiljaiswal2609@gmail.com**
 
