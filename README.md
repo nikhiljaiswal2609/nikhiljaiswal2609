@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript & React.js**
 
-- 📫 How to reach me **nikhiljaiswal2609@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/nikhiljaiswal2609**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
