@@ -1,6 +1,6 @@
 ![logo](https://github.com/nikhiljaiswal2609/nikhiljaiswal2609/blob/main/nik.png)
 <h1 align="center">Hi 👋, I'm Nikhil Jaiswal</h1>
-<h3 align="center">Welcome, web developers! Explore our projects, dive into code excellence. Join us in crafting exceptional digital experiences. Happy coding!</h3>
+<h3 align="center">Welcome, web developers! Explore my projects, dive into code excellence. Join me in crafting exceptional digital experiences. Happy coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiljaiswal2609&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiljaiswal2609" /> </p>
 
